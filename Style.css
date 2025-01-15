@@ -1,0 +1,95 @@
+body {
+    background-image:url(Pics/beans-black-black-background-brown-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #824c00;
+    background-color: #654520;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navbar-nav .nav-link {
+    color: #F5DEB3 !important;
+    font-weight: bold;
+}
+
+p {
+    color: #3B3030;
+    font-size:3em;
+}
+
+img {
+    border: 2px solid #3B3030;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+h2 {
+    color:#824c00 ;
+
+}
+h2 {
+    color: #824c00;
+    background-color: #F5DEB3;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+p {
+    font-size: 1.1em;
+    color: #F5DEB3;
+    line-height: 1.6;
+    text-align: left !important;
+
+    align-items: left;
+}
+
+img {
+    border: 2px solid #E4E0E1;
+    border-radius: 10px;
+    max-width:  width 100%;
+    height: auto;
+    position: relative;
+    
+}
+
+.container {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+.menu {
+    width: 80%;
+    background-color: #654520;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+
+}
+h1 ,h2 , p {
+    text-align: center;
+}
+.item p {
+    display: inline-block;
+    margin: 5px 0;
+    font-size: 18px;
+}
+.flavour, .Desserts {
+    width: 50%;
+    text-align:center;
+}
+label {
+    color:#F5DEB3;
+
+}
+input{align-items: center;
+
+}
